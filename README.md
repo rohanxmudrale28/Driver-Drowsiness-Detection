@@ -35,7 +35,3 @@ The system uses the following **Antecedents (Inputs)**:
 - Python 3.x
 - Webcam
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YourUsername/Driver-Drowsiness-Fuzzy-Logic.git](https://github.com/YourUsername/Driver-Drowsiness-Fuzzy-Logic.git)
